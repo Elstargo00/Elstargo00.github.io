@@ -47,11 +47,11 @@ Note that it need to be named as index.html
 % git push
 ```
 
-5. Now go to Setting > Pages. And your site is ready to go:
+5. Now go to Setting > Pages.
 
-<img src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg?resize=750px:*">
-
-
-
-
-
+<img width="700px" src="https://raw.githubusercontent.com/Elstargo00/Elstargo00.github.io/master/setting_pages.png">
+                                                                                                    
+And your site is ready to go:
+                                                                                                    
+                                                                                                    
+<img width="700px" src="https://raw.githubusercontent.com/Elstargo00/Elstargo00.github.io/master/page_example.png">
