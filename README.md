@@ -10,16 +10,16 @@ My repo is "Elstargo00.github.io"
 ## 2. Then git clone that repo into your working directory. I'll clone it via ssh protocal:
 
 ``` 
-% cd project_dir
-% git clone git@github.com:Elstargo00/Elstargo00.github.io.git
-% cd Elstargo00.github.io.git
+cd project_dir
+git clone git@github.com:Elstargo00/Elstargo00.github.io.git
+cd Elstargo00.github.io.git
 ```
 
 for your case:
 
 ```
-% git clone git@github.com:{username}/{username}.github.io.git
-% cd {username}.github.io.git
+git clone git@github.com:{username}/{username}.github.io.git
+cd {username}.github.io.git
 ```
 
 ## 3. Now start working on your local. Create your customize "index.html", for example:
@@ -42,9 +42,9 @@ Note that it need to be named as index.html
 ## 4. Add and commit changes and push the code back to the repo
 
 ```
-% git add index.html
-% git commit -m "first commit" -m "first commit for github page website"
-% git push
+git add index.html
+git commit -m "first commit" -m "first commit for github page website"
+git push
 ```
 
 ## 5. Now go to Setting > Pages.
