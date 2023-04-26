@@ -1,4 +1,7 @@
 div {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
   padding: 100px
 }
 
