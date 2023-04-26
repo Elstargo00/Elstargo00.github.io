@@ -4,7 +4,6 @@ div {
 
 h1 {
   color: darkmagenta;
-  text-align: center;
 }
 
 
@@ -12,4 +11,9 @@ table {
   border: 2px solid black;
   padding: 2px;
   text-align: center;
+}
+
+
+th, td {
+  border: 1px solid black;
 }
